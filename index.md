@@ -26,7 +26,7 @@ TBA.
 
 TBA.
 
-# Presenters
+# Organizers
 
 **Dr. Henrique Santos** is the Director of Semantic Applications in the Tetherless World Constellation at Rensselaer Polytechnic Institute. His research focuses on knowledge representation, domain-specific reasoning, and explainable artificial intelligence. Dr. Santos has lectured undergraduate courses in Artificial Intelligence and Algorithms and has presented several works at renowned conferences, including the International Semantic Web Conference, and the Extended Semantic Web Conference.
 
