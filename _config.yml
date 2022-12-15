@@ -2,5 +2,5 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: SciKG
-description: Tutorial on Building Scientific Knowledge Graphs from Data, Data Dictionaries, and Codebooks, co-located with ESWC-2023
+title: "SciKG: Tutorial on Building Scientific Knowledge Graphs from Data, Data Dictionaries, and Codebooks"
+description: Co-located with the 20th Extended Semantic Web Conference (ESWC 2023), Hersonissos, Greece - 28 or 29th May 2023
