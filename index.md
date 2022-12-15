@@ -39,3 +39,7 @@ TBA.
 **Sabbir M. Rashid** is a Ph.D. candidate at Rensselaer Polytechnic Institute on research related to data annotation and harmonization, ontology engineering, knowledge representation, and various forms of reasoning. His graduate studies have involved research related to the semantic annotation and transformation of data using Semantic Data Dictionaries, applied to deductive and abductive inference techniques over linked health data, such as in the context of chronic diseases like diabetes.
 
 **Prof. Deborah L. McGuinness** is the Tetherless World Senior Constellation Chair and Professor of Computer and Cognitive Science. Prof. McGuinness is also widely known for her leading role in the development of the W3C Recommended Web Ontology Language (OWL), her work on earlier description logic languages and environments, including interdisciplinary semantic data resources, provenance languages, and environments, such as InferenceWeb, PML, and PROV.
+
+# Acknowledgements
+
+TBA.
