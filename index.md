@@ -10,13 +10,16 @@ This tutorial aims to introduce participants to the basics of knowledge graph co
 
 The SciKG tutorial will be divided into four sections. It will start with an overview of how scientific study data is usually acquired, organized and published, and the current challenges (and opportunities for semantic web) involving the use of this data. Next, we introduce methods for scientific data annotation and terminology reuse. Following, we will give an overview of the state-of-the-art scientific and biomedical ontologies and provide real-world examples of their successful adoption. Finally, the tutorial will introduce knowledge graph frameworks and demonstrate how they can be used to bootstrap and manage scientific KGs.
 
-## Studies, Data, and Documentation
+## Section 1: Studies, Data, and Documentation
 
-## Scientific and Biomedical Ontologies
+## Section 2: Scientific and Biomedical Ontologies
 
-## Semantic Data Dictionaries
+## Section 3: Semantic Data Dictionaries
 
-## Knowledge Graph Frameworks
+## Section 4: Knowledge Graph Frameworks
+
+* The Human-Aware Data Acquisition Framework (HADatAc)
+* Whyis
 
 # Program
 
