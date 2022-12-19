@@ -32,10 +32,17 @@ The SciKG tutorial will be divided into four sections. It will start with an ove
 
 ## Section 3: Semantic Data Dictionaries
 
+* Introduction to Semantic Data Dictionaries (SDDs)
+    * Structure
+    * Examples
+* Practical section with NHANES datasets
+
 ## Section 4: Knowledge Graph Frameworks
 
 * The Human-Aware Data Acquisition Framework (HADatAc)
 * Whyis
+* Using SDDs to bootstrap Knowledge graphs
+* Using SPARQL to retrieve study data
 
 # Program
 
