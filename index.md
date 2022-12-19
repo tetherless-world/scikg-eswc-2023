@@ -6,6 +6,18 @@ Data from scientific studies are published in datasets, typically accompanied by
 
 This tutorial aims to introduce participants to the basics of knowledge graph construction using data, data dictionaries, and codebooks from scientific studies. It will use the Center for Disease Control and Prevention's (CDC) National Health and Nutrition Examination Surveys (NHANES) data as a testbed and introduce standardized terminology, novel and established techniques, and resources such as scientific/biomedical ontologies, semantic data dictionaries, and knowledge graph frameworks in both lecture and practical sessions. By the end of the tutorial, participants will have created a small knowledge graph that can be accessed to retrieve study knowledge and data.
 
+# Contents
+
+- [Tutorial overview](#tutorial-overview)
+  * [Section 1: Studies, Data, and Documentation](#section-1--studies--data--and-documentation)
+  * [Section 2: Scientific and Biomedical Ontologies](#section-2--scientific-and-biomedical-ontologies)
+  * [Section 3: Semantic Data Dictionaries](#section-3--semantic-data-dictionaries)
+  * [Section 4: Knowledge Graph Frameworks](#section-4--knowledge-graph-frameworks)
+- [Program](#program)
+- [Material](#material)
+- [Organizers](#organizers)
+- [Acknowledgements](#acknowledgements)
+
 # Tutorial overview
 
 The SciKG tutorial will be divided into four sections. It will start with an overview of how scientific study data is usually acquired, organized and published, and the current challenges (and opportunities for semantic web) involving the use of this data. Next, we introduce methods for scientific data annotation and terminology reuse. Following, we will give an overview of the state-of-the-art scientific and biomedical ontologies and provide real-world examples of their successful adoption. Finally, the tutorial will introduce knowledge graph frameworks and demonstrate how they can be used to bootstrap and manage scientific KGs.
