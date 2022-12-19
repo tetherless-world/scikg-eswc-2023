@@ -12,7 +12,23 @@ The SciKG tutorial will be divided into four sections. It will start with an ove
 
 ## Section 1: Studies, Data, and Documentation
 
+* Scientific studies and their data acquisition activities
+* Scientific data organization
+* Scientific data publishing
+* Documentation
+    * Data dictionaries
+    * Codebooks
+    * Methods
+* National Health and Nutrition Examination Surveys (NHANES)
+    * Semantics of NHANES data
+
 ## Section 2: Scientific and Biomedical Ontologies
+
+* The role of standardized terminology in science
+* Semanticscience Integrated Ontology (SIO)
+* Human-Aware Science Ontology (HAScO)
+* Disease Ontology (DOID)
+* Chemical Elements of Biological Interest (ChEBI)
 
 ## Section 3: Semantic Data Dictionaries
 
