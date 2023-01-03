@@ -75,7 +75,7 @@ Dr. Pinheiro is a seasoned data scientist and software engineer managing project
 ### Dr. Jamie P. McCusker - ~Rensselaer Polytechnic Institute~
 Dr. McCusker works on Biomedical Semantics. Her current interests are data and provenance interoperability in life sciences. She has worked as a software developer for 11 years in bioinformatics, high-performance computing, data mining, natural language processing, and supply chain auditing. Dr. McCusker has taught numerous courses and tutorials on knowledge graphs, ontology engineering, data science, and semantic science.
 
-### Dr. James Masters - ~Ichan School of Medicine at Mount Sinai~
+### Dr. James Masters - ~Icahn School of Medicine at Mount Sinai~
 Dr. Masters is the Director of Research Data Services at the Icahn School of Medicine at Mount Sinai and manages the Harmonized Data Repository of the Human Health Analysis Resource Data Center. The Harmonized Data Repository is a knowledge graph built using the HADatAc platform, biomedical ontologies, and the methodologies to be discussed in this tutorial. Before joining Icahn School of Medicine, Dr. Masters developed and run several training courses on Semantic Web applications for users and other stakeholders in the financial services industry.
 
 ### Sabbir M. Rashid - ~Rensselaer Polytechnic Institute~
