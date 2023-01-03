@@ -66,22 +66,22 @@ TBA.
 
 # Organizers
 
-### Dr. Henrique Santos - ~Rensselaer Polytechnic Institute~
+### Dr. Henrique Santos, *Rensselaer Polytechnic Institute*
 Dr. Santos is the Director of Semantic Applications in the Tetherless World Constellation at Rensselaer Polytechnic Institute. His research focuses on knowledge representation, domain-specific reasoning, and explainable artificial intelligence. Dr. Santos has lectured undergraduate courses in Artificial Intelligence and Algorithms and has presented several works at renowned conferences, including the International Semantic Web Conference, and the Extended Semantic Web Conference.
 
-### Dr. Paulo Pinheiro - ~Parcela Semântica~
+### Dr. Paulo Pinheiro, *Parcela Semântica*
 Dr. Pinheiro is a seasoned data scientist and software engineer managing projects at the frontier between artificial intelligence and databases. He has twenty years of hands-on experience with data and knowledge management software development, including in-depth knowledge of data standards, data policies, and information assurance. Dr. Pinheiro has extensive teaching experience including past professorship appointments.
 
-### Dr. Jamie P. McCusker - ~Rensselaer Polytechnic Institute~
+### Dr. Jamie P. McCusker, *Rensselaer Polytechnic Institute*
 Dr. McCusker works on Biomedical Semantics. Her current interests are data and provenance interoperability in life sciences. She has worked as a software developer for 11 years in bioinformatics, high-performance computing, data mining, natural language processing, and supply chain auditing. Dr. McCusker has taught numerous courses and tutorials on knowledge graphs, ontology engineering, data science, and semantic science.
 
-### Dr. James Masters - ~Icahn School of Medicine at Mount Sinai~
+### Dr. James Masters, *Icahn School of Medicine at Mount Sinai*
 Dr. Masters is the Director of Research Data Services at the Icahn School of Medicine at Mount Sinai and manages the Harmonized Data Repository of the Human Health Analysis Resource Data Center. The Harmonized Data Repository is a knowledge graph built using the HADatAc platform, biomedical ontologies, and the methodologies to be discussed in this tutorial. Before joining Icahn School of Medicine, Dr. Masters developed and run several training courses on Semantic Web applications for users and other stakeholders in the financial services industry.
 
-### Sabbir M. Rashid - ~Rensselaer Polytechnic Institute~
+### Sabbir M. Rashid, *Rensselaer Polytechnic Institute*
 Rashid is a Ph.D. candidate at Rensselaer Polytechnic Institute on research related to data annotation and harmonization, ontology engineering, knowledge representation, and various forms of reasoning. His graduate studies have involved research related to the semantic annotation and transformation of data using Semantic Data Dictionaries, applied to deductive and abductive inference techniques over linked health data, such as in the context of chronic diseases like diabetes.
 
-### Prof. Deborah L. McGuinness - ~Rensselaer Polytechnic Institute~
+### Prof. Deborah L. McGuinness, *Rensselaer Polytechnic Institute*
 Prof. McGuinness is the Tetherless World Senior Constellation Chair and Professor of Computer and Cognitive Science. Prof. McGuinness is also widely known for her leading role in the development of the W3C Recommended Web Ontology Language (OWL), her work on earlier description logic languages and environments, including interdisciplinary semantic data resources, provenance languages, and environments, such as InferenceWeb, PML, and PROV.
 
 # Acknowledgements
