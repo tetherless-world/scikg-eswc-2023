@@ -88,7 +88,7 @@ Prof. McGuinness is the Tetherless World Senior Constellation Chair and Professo
 
 This tutorial is partially funded by the following projects:
 * [The Children’s Health Exposure Analysis Resource (CHEAR)](http://hhearprogram.org)
-* [The Human Health Exposure Analysis Resource (HHEAR)](http://hhearprogram.org)
-* [Health Empowerment by Analytics, Learning, and Semantics (HEALS)](https://idea.rpi.edu/research/projects/heals)
-* [Machine Common Sense](https://www.darpa.mil/program/machine-common-sense)
-* [MaterialsMine](http://materialsmine.org)
+* [The Human Health Exposure Analysis Resource (HHEAR)](http://hhearprogram.org), grant number **U2CES026555**
+* [Health Empowerment by Analytics, Learning, and Semantics (HEALS)](https://idea.rpi.edu/research/projects/heals) through the [IBM AI Horizons Network](https://research.ibm.com/collaborate/horizons-network/) program
+* [Machine Common Sense](https://www.darpa.mil/program/machine-common-sense), grant number **N660011924033**
+* [MaterialsMine](http://materialsmine.org), grant number **1835648**
