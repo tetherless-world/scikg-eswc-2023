@@ -87,8 +87,9 @@ Prof. McGuinness is the Tetherless World Senior Constellation Chair and Professo
 # Acknowledgements
 
 This tutorial is partially funded by the following projects:
-* [The Children’s Health Exposure Analysis Resource (CHEAR)](http://hhearprogram.org)
-* [The Human Health Exposure Analysis Resource (HHEAR)](http://hhearprogram.org), grant number **U2CES026555**
-* [Health Empowerment by Analytics, Learning, and Semantics (HEALS)](https://idea.rpi.edu/research/projects/heals) through the [IBM AI Horizons Network](https://research.ibm.com/collaborate/horizons-network/) program
-* [Machine Common Sense](https://www.darpa.mil/program/machine-common-sense), grant number **N660011924033**
-* [MaterialsMine](http://materialsmine.org), grant number **1835648**
+* NIEHS-funded [Children’s Health Exposure Analysis Resource (CHEAR)](https://reporter.nih.gov/project-details/9062054), grant number **1U2CES026555-01**
+* NIEHS-funded [Human Health Exposure Analysis Resource (HHEAR)](https://reporter.nih.gov/search/omw727mrOEiYVmxYWQ2GnQ/project-details/10424419), grant number **U2CES026555-05**
+* IBM-funded [Health Empowerment by Analytics, Learning, and Semantics (HEALS)](https://idea.rpi.edu/research/projects/heals) through the [AI Horizons Network](https://research.ibm.com/collaborate/horizons-network/) program
+* DARPA-funded [Machine Common Sense](https://www.darpa.mil/program/machine-common-sense), grant number **N660011924033**
+* NSF-funded [Nanomine](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1640840&HistoricalAwards=false), grant number **1640840**
+* NSF-funded [MaterialsMine](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1835648&HistoricalAwards=false), grant number **1835648**
