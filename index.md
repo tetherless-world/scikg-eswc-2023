@@ -58,7 +58,15 @@ The SciKG tutorial will be divided into four sections. It will start with an ove
 
 # Program
 
-TBA.
+| Time (EEST/UTC+3) | Event                                        |
+| ----------------- | -------------------------------------------- |
+| 9:00 - 10:30      | Part 1: Studies, Data, and Documentation     |
+| 10:30 - 11:00     | Break                                        |
+| 11:00 - 12:30     | Part 2: Scientific and Biomedical Ontologies |
+| 12:30 - 14:00     | Lunch                                        |
+| 14:00 - 15:30     | Part 3: Semantic Data Dictionaries           |
+| 15:30 - 16:00     | Break                                        |
+| 16:00 - 18:00     | Part 4: Knowledge Graph Frameworks           |
 
 # Material
 
