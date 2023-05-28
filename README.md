@@ -20,7 +20,7 @@ $ git clone https://github.com/tetherless-world/scikg-eswc-2023.git
 Move NHANES config files to HADatAc dir:
 ```
 $ mv nhanes-hadatac/conf/namespaces.properties hadatac/conf/namespaces.properties
-$ mv mv scikg-eswc-2023/hadatac/conf/hadatac-docker.conf hadatac/conf/hadatac-docker.conf
+$ mv scikg-eswc-2023/hadatac/conf/hadatac-docker.conf hadatac/conf/hadatac-docker.conf
 ```
 
 Build and run HADatAc with Docker:
