@@ -75,7 +75,7 @@ The SciKG tutorial will be divided into four sections. It will start with an ove
 | [Intro](slides/SciKG_Tutorial_ESWC-23_Intro.pdf)                                        |
 | [Part 1: Studies, Data, and Documentation](slides/SciKG_Tutorial_ESWC-23_Part1.pdf)     |
 | [Part 2: Scientific and Biomedical Ontologies](slides/SciKG_Tutorial_ESWC-23_Part2.pdf)<br>[HAScO Ontology](slides/SciKG_Tutorial_ESWC-23_Part2_HAScO.pdf) |
-| Part 3: Semantic Data Dictionaries                                                  |
+| [Part 3: Semantic Data Dictionaries](slides/SciKG_Tutorial_ESWC-23_Part3.pdf) |
 | Part 4: Knowledge Graph Frameworks                                                  |
 
 # Organizers
