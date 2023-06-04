@@ -81,7 +81,7 @@ The SciKG tutorial will be divided into four sections. It will start with an ove
 # Organizers
 
 ### Dr. Henrique Santos, *Rensselaer Polytechnic Institute*
-Dr. Santos is the Director of Semantic Applications in the Tetherless World Constellation at Rensselaer Polytechnic Institute. His research focuses on knowledge representation, domain-specific reasoning, and explainable artificial intelligence. Dr. Santos has lectured undergraduate courses in Artificial Intelligence and Algorithms and has presented several works at renowned conferences, including the International Semantic Web Conference, and the Extended Semantic Web Conference.
+Dr. Santos is the Director of Semantic Applications Research in the Tetherless World Constellation at Rensselaer Polytechnic Institute. His research focuses on knowledge representation, domain-specific reasoning, and explainable artificial intelligence. Dr. Santos has lectured undergraduate courses in Artificial Intelligence and Algorithms and has presented several works at renowned conferences, including the International Semantic Web Conference, and the Extended Semantic Web Conference.
 
 ### Dr. Paulo Pinheiro, *Parcela Semântica*
 Dr. Pinheiro is a seasoned data scientist and software engineer managing projects at the frontier between artificial intelligence and databases. He has twenty years of hands-on experience with data and knowledge management software development, including in-depth knowledge of data standards, data policies, and information assurance. Dr. Pinheiro has extensive teaching experience including past professorship appointments.
