@@ -78,6 +78,8 @@ The SciKG tutorial will be divided into four sections. It will start with an ove
 | [Part 3: Semantic Data Dictionaries](slides/SciKG_Tutorial_ESWC-23_Part3.pdf)       |
 | Part 4: Knowledge Graph Frameworks (no slides, hands-on content)                    |
 
+## Published proceedings
+
 | Proceedings | Paper |
 | ----------- | ----- |
 | [ESWC 2023 Workshops and Tutorials Joint Proceedings](https://ceur-ws.org/Vol-3443/) | [PDF](https://ceur-ws.org/Vol-3443/ESWC_2023_scikg.pdf) |
