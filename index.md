@@ -112,7 +112,7 @@ This tutorial is partially funded by the following projects:
 * NIMH-funded [Support for the RCADS Data Collection Measure](https://reporter.nih.gov/search/5HOx2MjeokSPI0UyXOVZbg/project-details/10722484), project number **75N95022C00018-0-9999-1**
 * IBM-funded [Health Empowerment by Analytics, Learning, and Semantics (HEALS)](https://idea.rpi.edu/research/projects/heals) through the [AI Horizons Network](https://research.ibm.com/collaborate/horizons-network/) program
 * DARPA-funded [Machine Common Sense (MCS)](https://www.darpa.mil/program/machine-common-sense), grant number **N660011924033**
-* DARPA-funded [Environment-driven Conceptual Learning (ECOLE)](https://www.darpa.mil/program/environment-driven-conceptual-learning), grant number ****
+* DARPA-funded [Environment-driven Conceptual Learning (ECOLE)](https://www.darpa.mil/program/environment-driven-conceptual-learning), grant number **HR00112390059**
 * IARPA-funded [Human Interpretable Attribution of Text using Underlying Structure (HIATUS)](https://www.iarpa.gov/research-programs/hiatus), grant number **2022-22072200002**
 * NSF-funded [Nanomine](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1640840&HistoricalAwards=false), award number **1640840**
 * NSF-funded [MaterialsMine](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1835648&HistoricalAwards=false), award number **1835648**
